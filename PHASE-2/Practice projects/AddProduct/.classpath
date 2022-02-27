@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/h2-1.4.199.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/byte-buddy-1.12.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/hibernate-core-5.6.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ibmny/Desktop/ojdbc/hibernates/required/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
